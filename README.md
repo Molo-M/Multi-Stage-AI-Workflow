@@ -13,3 +13,9 @@ Create a workflow that solves a problem by chaining outputs between at least two
 The IDE AI of choice was **Copilot with VSCode**. Here is a screenshot:
 
 ![screenshot image showing the prompting of copilot chat in vscode](images/image.png)
+
+## Step 2: Implement Chat AI:
+
+The chat AI of choice was **Claude AI**. Here is a screenshot:
+
+![screenshot image showing Claude chat produce report after prompting](images/image-2.png)
